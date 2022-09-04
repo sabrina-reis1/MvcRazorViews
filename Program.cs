@@ -21,3 +21,8 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+//cd Desktop/
+//mkdir sp3048144
+//cd sp3048144
+//dotnet new mvc --no-https -o NomeQualquer
