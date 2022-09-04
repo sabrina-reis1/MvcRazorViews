@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews.csproj",
+  "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\MvcRazorViews.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,93 +16298,48 @@
   "RootNamespace": "MvcRazorViews",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Estudante\\Index.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Estudante\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Estudante\\Index.cshtml",
       "TargetPath": "Views\\Estudante\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Estudante\\Show.cshtml",
-      "TargetPath": "Views\\Estudante\\Show.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Estudante\\Show.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Estudante\\Show.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\_ViewImports.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Home\\Index.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Estudante\\Show.cshtml",
+      "TargetPath": "Views\\Estudante\\Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\DELL\\Desktop\\MvcRazorViews\\MvcRazorViews\\Views\\_ViewStart.cshtml",
-      "TargetPath": "MvcRazorViews\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
